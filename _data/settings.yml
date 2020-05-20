@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Index
-  site_tagline: A minimal, fixed sidebar grid portfolio Jekyll theme.
+  site_title: Life in Code 💻
+  site_tagline: Every person lives by a code, what's yours?
   favicon_image: /images/favicon.png
 
 header_settings:
